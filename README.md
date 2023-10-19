@@ -59,3 +59,24 @@ Histograms were used to examine the distribution of key features. These plots pr
 
 <br><br>
 Overall, the EDA analysis provided valuable insights into the key features of the dataset and helped to identify any potential issues or challenges that needed to be addressed before building the prediction model.
+
+
+<br><br>
+## Making predictions 
+
+The model that was used was a logistic regression model.It went through hyperparameter tuning and its accuracy score increased.
+
+
+## Deployment 
+The model was deployed and tested on streamlit.
+
+## *How to run the model*
+After downloading the file on your environment,ensure you have a data science environment and have streamlit installed in the environment you are working on
+
+After you are done run on your bash:
+$ streamlit run app.py
+
+## Conclusion 
+
+This was a small passion project that does have room for more training. One can use it to learn more and try new things.
+*Happy Learning Guys! And Cheers*
