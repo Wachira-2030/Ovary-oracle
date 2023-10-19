@@ -16,6 +16,9 @@ Polycystic ovary syndrome (PCOS) is a common hormonal condition that affects wom
 PCOS can cause hormonal imbalances, irregular periods, excess androgen levels and cysts in the ovaries. Irregular periods, usually with a lack of ovulation, can make it difficult to become pregnant. PCOS is a leading cause of infertility.
 
 
+## Main Objective
+To create a deployable PCOS predicting model. 
+
 ## Data Understanding
 
 > The dataset was collected from 10 different hospitals in Kerala,India.
@@ -34,3 +37,25 @@ The columns in the main data set include:
        'BP _Diastolic (mmHg)', 'Follicle No. (L)', 'Follicle No. (R)',
        'Avg. F size (L) (mm)', 'Avg. F size (R) (mm)', 'Endometrium (mm)',
        'Unnamed: 44'
+
+
+
+
+  ## Data Preprocessing.
+*Assessing the Data:* The dataset contains  a list of 541 rows of recipes and 45 columns.
+## Modeling
+The project started off with a baseline model which was a untuned logistic regression model .
+
+<br><br>
+## *Data Cleaning:* 
+A new dataframes were created to contain relevant features.  Data in the dataset were stripped of irrelevant characters, converted to float type and columns renamed to contain units of measurements.   The dataframe was then checked to identify the presence of duplicates and missing values. 
+<br><br>
+## *Exploring the Data/Selecting Features:* 
+To build an effective prediction system, a comprehensive exploratory data analysis (EDA) was conducted. This involved examining the key features of the dataset.
+<br><br>
+To get a better understanding of the dataset, visualizations were created. Correlation heatmap and stacked plots were used to explore the relationship between the target variable and various features.
+<br><br>
+Histograms were used to examine the distribution of key features. These plots provided insights into the distribution of these values and helped to identify any potential outliers or anomalies.
+
+<br><br>
+Overall, the EDA analysis provided valuable insights into the key features of the dataset and helped to identify any potential issues or challenges that needed to be addressed before building the prediction model.
