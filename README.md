@@ -3,9 +3,10 @@
 
 
 ## Introduction
+![pexels-larissa-farber-16190930](https://user-images.githubusercontent.com/58382818/182008486-01c0a56b-f055-4d94-b38f-7d838d5f8b0f.png)
 
 
-
+## Business Understanding
 > PCOS a significant public health problem and is one of the commonest hormonal disturbances affecting women of reproductive age. The condition affects an estimated 8–13% of women of reproductive age, and up to 70% of cases are undiagnosed.
 
 The prevalence of PCOS is higher among some ethnicities and these groups often experience more complications, in particular related to metabolic problems.
