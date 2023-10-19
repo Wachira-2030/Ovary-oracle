@@ -14,3 +14,23 @@ The prevalence of PCOS is higher among some ethnicities and these groups often e
 Polycystic ovary syndrome (PCOS) is a common hormonal condition that affects women of reproductive age. It usually starts during adolescence, but symptoms may fluctuate over time.
 
 PCOS can cause hormonal imbalances, irregular periods, excess androgen levels and cysts in the ovaries. Irregular periods, usually with a lack of ovulation, can make it difficult to become pregnant. PCOS is a leading cause of infertility.
+
+
+## Data Understanding
+
+> The dataset was collected from 10 different hospitals in Kerala,India.
+- The variables: 
+The columns in the main data set include:
+       'Sl. No', 'Patient File No.', 'PCOS (Y/N)', ' Age (yrs)', 'Weight (Kg)',
+       'Height(Cm) ', 'BMI', 'Blood Group', 'Pulse rate(bpm) ',
+       'RR (breaths/min)', 'Hb(g/dl)', 'Cycle(R/I)', 'Cycle length(days)',
+       'Marraige Status (Yrs)', 'Pregnant(Y/N)', 'No. of aborptions',
+       '  I   beta-HCG(mIU/mL)', 'II    beta-HCG(mIU/mL)', 'FSH(mIU/mL)',
+       'LH(mIU/mL)', 'FSH/LH', 'Hip(inch)', 'Waist(inch)', 'Waist:Hip Ratio',
+       'TSH (mIU/L)', 'AMH(ng/mL)', 'PRL(ng/mL)', 'Vit D3 (ng/mL)',
+       'PRG(ng/mL)', 'RBS(mg/dl)', 'Weight gain(Y/N)', 'hair growth(Y/N)',
+       'Skin darkening (Y/N)', 'Hair loss(Y/N)', 'Pimples(Y/N)',
+       'Fast food (Y/N)', 'Reg.Exercise(Y/N)', 'BP _Systolic (mmHg)',
+       'BP _Diastolic (mmHg)', 'Follicle No. (L)', 'Follicle No. (R)',
+       'Avg. F size (L) (mm)', 'Avg. F size (R) (mm)', 'Endometrium (mm)',
+       'Unnamed: 44'
