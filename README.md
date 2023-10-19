@@ -79,4 +79,4 @@ $ streamlit run app.py
 ## Conclusion 
 
 This was a small passion project that does have room for more training. One can use it to learn more and try new things.
-*Happy Learning Guys! And Cheers*
+*Happy Learning Guys!<br> And Cheers*
